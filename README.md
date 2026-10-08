@@ -8,11 +8,8 @@ Temen, uredniški dizajn za telefon in računalnik: izbrani projekti s fotografi
 
 Samostojna datoteka, ki se odpre v brskalniku:
 
-[site/index.html](site/index.html)
-
-Neposreden prenos:
-
-https://github.com/tommyvimeo-gif/finars/raw/main/site/index.html
+- Živa stran: https://tommyvimeo-gif.github.io/finars/
+- Prenos: https://github.com/tommyvimeo-gif/finars/raw/main/index.html
 
 ## Lokalni zagon aplikacije
 
